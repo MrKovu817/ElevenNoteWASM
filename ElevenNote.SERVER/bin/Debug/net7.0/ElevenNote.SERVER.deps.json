@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ElevenNote.SERVER/1.0.0": {
+        "dependencies": {
+          "ElevenNote.Shared": "1.0.0"
+        },
+        "runtime": {
+          "ElevenNote.SERVER.dll": {}
+        }
+      },
+      "ElevenNote.Shared/1.0.0": {
+        "runtime": {
+          "ElevenNote.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElevenNote.SERVER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ElevenNote.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

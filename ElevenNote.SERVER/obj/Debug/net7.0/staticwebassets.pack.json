@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\ElevenFiftyProjects\\Blazor_MultiSetup\\ElevenNote.SERVER\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ElevenNote.SERVER.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ElevenNote.SERVER.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\ElevenFiftyProjects\\Blazor_MultiSetup\\ElevenNote.SERVER\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\ElevenFiftyProjects\\Blazor_MultiSetup\\ElevenNote.SERVER\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\ElevenFiftyProjects\\Blazor_MultiSetup\\ElevenNote.SERVER\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\ElevenFiftyProjects\\Blazor_MultiSetup\\ElevenNote.SERVER\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\ElevenFiftyProjects\\Blazor_MultiSetup\\ElevenNote.SERVER\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\ElevenFiftyProjects\\Blazor_MultiSetup\\ElevenNote.SERVER\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\ElevenFiftyProjects\\Blazor_MultiSetup\\ElevenNote.SERVER\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\ElevenFiftyProjects\\Blazor_MultiSetup\\ElevenNote.SERVER\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\ElevenFiftyProjects\\Blazor_MultiSetup\\ElevenNote.SERVER\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\ElevenFiftyProjects\\Blazor_MultiSetup\\ElevenNote.SERVER\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\ElevenFiftyProjects\\Blazor_MultiSetup\\ElevenNote.SERVER\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\ElevenFiftyProjects\\Blazor_MultiSetup\\ElevenNote.SERVER\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\ElevenFiftyProjects\\Blazor_MultiSetup\\ElevenNote.SERVER\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ElevenNote.SERVER.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ElevenNote.SERVER.props",
+      "PackagePath": "build\\ElevenNote.SERVER.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ElevenNote.SERVER.props",
+      "PackagePath": "buildMultiTargeting\\ElevenNote.SERVER.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ElevenNote.SERVER.props",
+      "PackagePath": "buildTransitive\\ElevenNote.SERVER.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
