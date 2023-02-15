@@ -2,9 +2,9 @@
   <ItemGroup>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap\bootstrap.min.css))">
       <SourceType>Package</SourceType>
-      <SourceId>ElevenNote.SERVER</SourceId>
+      <SourceId>ElevenNote.Server</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/ElevenNote.SERVER</BasePath>
+      <BasePath>_content/ElevenNote.Server</BasePath>
       <RelativePath>css/bootstrap/bootstrap.min.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -18,9 +18,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap\bootstrap.min.css.map))">
       <SourceType>Package</SourceType>
-      <SourceId>ElevenNote.SERVER</SourceId>
+      <SourceId>ElevenNote.Server</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/ElevenNote.SERVER</BasePath>
+      <BasePath>_content/ElevenNote.Server</BasePath>
       <RelativePath>css/bootstrap/bootstrap.min.css.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -34,9 +34,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\open-iconic\FONT-LICENSE))">
       <SourceType>Package</SourceType>
-      <SourceId>ElevenNote.SERVER</SourceId>
+      <SourceId>ElevenNote.Server</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/ElevenNote.SERVER</BasePath>
+      <BasePath>_content/ElevenNote.Server</BasePath>
       <RelativePath>css/open-iconic/FONT-LICENSE</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -50,9 +50,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\open-iconic\font\css\open-iconic-bootstrap.min.css))">
       <SourceType>Package</SourceType>
-      <SourceId>ElevenNote.SERVER</SourceId>
+      <SourceId>ElevenNote.Server</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/ElevenNote.SERVER</BasePath>
+      <BasePath>_content/ElevenNote.Server</BasePath>
       <RelativePath>css/open-iconic/font/css/open-iconic-bootstrap.min.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -66,9 +66,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\open-iconic\font\fonts\open-iconic.eot))">
       <SourceType>Package</SourceType>
-      <SourceId>ElevenNote.SERVER</SourceId>
+      <SourceId>ElevenNote.Server</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/ElevenNote.SERVER</BasePath>
+      <BasePath>_content/ElevenNote.Server</BasePath>
       <RelativePath>css/open-iconic/font/fonts/open-iconic.eot</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -82,9 +82,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\open-iconic\font\fonts\open-iconic.otf))">
       <SourceType>Package</SourceType>
-      <SourceId>ElevenNote.SERVER</SourceId>
+      <SourceId>ElevenNote.Server</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/ElevenNote.SERVER</BasePath>
+      <BasePath>_content/ElevenNote.Server</BasePath>
       <RelativePath>css/open-iconic/font/fonts/open-iconic.otf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -98,9 +98,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\open-iconic\font\fonts\open-iconic.svg))">
       <SourceType>Package</SourceType>
-      <SourceId>ElevenNote.SERVER</SourceId>
+      <SourceId>ElevenNote.Server</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/ElevenNote.SERVER</BasePath>
+      <BasePath>_content/ElevenNote.Server</BasePath>
       <RelativePath>css/open-iconic/font/fonts/open-iconic.svg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -114,9 +114,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\open-iconic\font\fonts\open-iconic.ttf))">
       <SourceType>Package</SourceType>
-      <SourceId>ElevenNote.SERVER</SourceId>
+      <SourceId>ElevenNote.Server</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/ElevenNote.SERVER</BasePath>
+      <BasePath>_content/ElevenNote.Server</BasePath>
       <RelativePath>css/open-iconic/font/fonts/open-iconic.ttf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -130,9 +130,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\open-iconic\font\fonts\open-iconic.woff))">
       <SourceType>Package</SourceType>
-      <SourceId>ElevenNote.SERVER</SourceId>
+      <SourceId>ElevenNote.Server</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/ElevenNote.SERVER</BasePath>
+      <BasePath>_content/ElevenNote.Server</BasePath>
       <RelativePath>css/open-iconic/font/fonts/open-iconic.woff</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -146,9 +146,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\open-iconic\ICON-LICENSE))">
       <SourceType>Package</SourceType>
-      <SourceId>ElevenNote.SERVER</SourceId>
+      <SourceId>ElevenNote.Server</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/ElevenNote.SERVER</BasePath>
+      <BasePath>_content/ElevenNote.Server</BasePath>
       <RelativePath>css/open-iconic/ICON-LICENSE</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -162,9 +162,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\open-iconic\README.md))">
       <SourceType>Package</SourceType>
-      <SourceId>ElevenNote.SERVER</SourceId>
+      <SourceId>ElevenNote.Server</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/ElevenNote.SERVER</BasePath>
+      <BasePath>_content/ElevenNote.Server</BasePath>
       <RelativePath>css/open-iconic/README.md</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -178,9 +178,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\site.css))">
       <SourceType>Package</SourceType>
-      <SourceId>ElevenNote.SERVER</SourceId>
+      <SourceId>ElevenNote.Server</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/ElevenNote.SERVER</BasePath>
+      <BasePath>_content/ElevenNote.Server</BasePath>
       <RelativePath>css/site.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -192,12 +192,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\site.css))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ElevenNote.SERVER.bundle.scp.css))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ElevenNote.Server.bundle.scp.css))">
       <SourceType>Package</SourceType>
-      <SourceId>ElevenNote.SERVER</SourceId>
+      <SourceId>ElevenNote.Server</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/ElevenNote.SERVER</BasePath>
-      <RelativePath>ElevenNote.SERVER.bundle.scp.css</RelativePath>
+      <BasePath>_content/ElevenNote.Server</BasePath>
+      <RelativePath>ElevenNote.Server.bundle.scp.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>Reference</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -206,13 +206,13 @@
       <AssetTraitValue>ProjectBundle</AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ElevenNote.SERVER.bundle.scp.css))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ElevenNote.Server.bundle.scp.css))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\favicon.png))">
       <SourceType>Package</SourceType>
-      <SourceId>ElevenNote.SERVER</SourceId>
+      <SourceId>ElevenNote.Server</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/ElevenNote.SERVER</BasePath>
+      <BasePath>_content/ElevenNote.Server</BasePath>
       <RelativePath>favicon.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>

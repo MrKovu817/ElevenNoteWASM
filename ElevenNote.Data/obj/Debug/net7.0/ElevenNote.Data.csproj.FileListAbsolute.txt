@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\Blazor_MultiSetup\ElevenNote.Data\bin\Debug\net7.0\ElevenNote.Data.deps.json
+C:\ElevenFiftyProjects\Blazor_MultiSetup\ElevenNote.Data\bin\Debug\net7.0\ElevenNote.Data.dll
+C:\ElevenFiftyProjects\Blazor_MultiSetup\ElevenNote.Data\bin\Debug\net7.0\ElevenNote.Data.pdb
+C:\ElevenFiftyProjects\Blazor_MultiSetup\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\Blazor_MultiSetup\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\Blazor_MultiSetup\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\Blazor_MultiSetup\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.AssemblyInfo.cs
+C:\ElevenFiftyProjects\Blazor_MultiSetup\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Blazor_MultiSetup\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.dll
+C:\ElevenFiftyProjects\Blazor_MultiSetup\ElevenNote.Data\obj\Debug\net7.0\refint\ElevenNote.Data.dll
+C:\ElevenFiftyProjects\Blazor_MultiSetup\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.pdb
+C:\ElevenFiftyProjects\Blazor_MultiSetup\ElevenNote.Data\obj\Debug\net7.0\ref\ElevenNote.Data.dll
+C:\ElevenFiftyProjects\Blazor_MultiSetup\ElevenNote.Data\bin\Debug\net7.0\ElevenNote.Data.runtimeconfig.json
+C:\ElevenFiftyProjects\Blazor_MultiSetup\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.genruntimeconfig.cache

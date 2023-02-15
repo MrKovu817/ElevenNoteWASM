@@ -1,4 +1,4 @@
-namespace ElevenNote.SERVER.Data;
+namespace ElevenNote.Server.Data;
 
 public class WeatherForecast
 {

@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
-using ElevenNote.SERVER.Data;
+using ElevenNote.Server.Data;
+using ElevenNote.Services.Configurations;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
-
+builder.Services.AddAutoMapper(typeof(MappingConfigurations));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
