@@ -39,12 +39,13 @@ namespace ElevenNote.Services.Services
 
         public async Task<NoteDetail> GetNote(int id)
         {
-            return _mapper.Map<NoteDetail>(await _dbContext.Notes.FindAsync(id));
+            return _mapper.Map<NoteDetail>(await _dbContext.Notes.Include(n=>n.Category)
+                    .SingleOrDefaultAsync(x=>x.Id == id));
         }
 
         public async Task<List<NoteListItem>> GetNotes()
         {
-            return _mapper.Map<List<NoteListItem>>(await _dbContext.Notes.ToListAsync());
+            return _mapper.Map<List<NoteListItem>>(await _dbContext.Notes.Include(n=>n.Category).ToListAsync());
         }
 
         public async Task<bool> UpdateNote(NoteEdit model)

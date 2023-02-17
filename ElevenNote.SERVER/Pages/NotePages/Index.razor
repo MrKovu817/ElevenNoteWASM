@@ -1,0 +1,47 @@
+@page "/note"
+
+@inject INoteService _noteService
+
+<a href="/note/create" class="btn btn-success">Create a Note!</a>
+@if(_notes.Count()>0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Title</th>
+                <th>Category Name</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var note in _notes)
+            {
+                <tr>
+                    <td>@note.Id</td>
+                    <td>@note.Title</td>
+                    <td>@note.CategoryName</td>
+                    <td>
+                        <a href="/note/edit/@note.Id" class="btn btn-success">Edit</a>
+                        <a href="/note/delete/@note.Id" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+}
+else
+{
+    <p class="text text-danger">Sorry, there are NO available Notes at this time.</p>
+}
+
+@code
+{
+    private List<NoteListItem> _notes = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        _notes = await _noteService.GetNotes();
+    }
+}
